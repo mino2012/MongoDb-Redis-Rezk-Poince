@@ -13,4 +13,4 @@ Nécessite plus de mémoire pour le stockage des noms de clefs.
 Stocké en RAM, une valeur pour une clef.
 Des types de données simples : chaîne de caractères, ensembles, tableaux, listes.
 
-Requêtes possibles : SET GET TTL ZADD SADDMongoDb-Redis-Rezk-Poince
+Requêtes possibles : SET GET TTL ZADD SADD
